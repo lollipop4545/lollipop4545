@@ -14,9 +14,9 @@
 I bridge the gap between low-level hardware, networking, and modern software systems. My daily work spans building scalable web applications with Next.js and TypeScript to managing containerized infrastructure, Zero Trust perimeters, and remote IoT networks.
 
 - 🎓 **Studying:** Electronic & Telecommunication Engineering at King Mongkut's University of Technology Thonburi (KMUTT).
+- ⚡ **Exploring:** Network architectures, embedded systems/IoT, and mobile OS customization (GSI/Fastboot).
 - 🛠️ **Building:** Production web apps using Next.js (App Router), TypeScript, and Tailwind CSS/Shadcn.
 - 🌐 **Deploying:** Containerized services via Docker Compose on Linux/Azure VMs, fronted securely with Cloudflare Tunnels (Zero Trust).
-- ⚡ **Exploring:** Network architectures, embedded systems/IoT, and mobile OS customization (GSI/Fastboot).
 
 ---
 
