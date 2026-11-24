@@ -14,7 +14,7 @@
 I bridge the gap between low-level hardware, networking, and modern software systems. My daily work spans building scalable web applications with Next.js and TypeScript to managing containerized infrastructure, Zero Trust perimeters, and remote IoT networks.
 
 - 🎓 **Studying:** Electronic & Telecommunication Engineering at King Mongkut's University of Technology Thonburi (KMUTT).
-- 🌱 **Maintaining:** [Limea Kernel](https://github.com/lollipop4545/Limea_Kernel-Ginkgo) — custom Android kernels with container support, starting with Redmi Note 8/8T.
+- 🌱 **Maintaining:** **Limea Kernel** — custom Android kernels with container support for [Redmi Note 8/8T](https://github.com/lollipop4545/Limea_Kernel-Ginkgo) and [Infinix Note 10 Pro / X695D](https://github.com/lollipop4545/Limea_Kernel-X695D) (experimental).
 - ⚡ **Exploring:** Network architectures, embedded systems/IoT, and mobile OS customization (GSI/Fastboot).
 - 🛠️ **Building:** Production web apps using Next.js (App Router), TypeScript, and Tailwind CSS/Shadcn.
 - 🌐 **Deploying:** Containerized services via Docker Compose on Linux/Azure VMs, fronted securely with Cloudflare Tunnels (Zero Trust).
